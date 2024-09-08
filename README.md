@@ -1,2 +1,3 @@
 # -Fitbit-User-Data-Analysis
 The "Deep Dive into Fitbit User Data Analysis" project embarks on an exploratory journey into the rich dataset provided by Fitbit users. With the increasing popularity of wearable technology, understanding user behavior, activity patterns, and health metrics has become paramount. This project leverages data from 33 Fitbit users collected over a month, aiming to unravel insights about daily activity levels, sleep patterns, heart rate variations, and overall engagement with the device. By analyzing this data, the project seeks to provide actionable recommendations to enhance user experience, promote healthier lifestyles, and inform future developments in wearable technology.
+https://sites.google.com/view/fitbitfitnesstrackerdhruvm/home
